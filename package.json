@@ -1,0 +1,12 @@
+{
+  "name": "land_auction",
+  "version": "0.0.1",
+  "description": "Land Auction in Korea",
+  "main": "index.js",
+  "repository": "https://github.com/LeeJoohyon/land_auction.git",
+  "author": "joohyun <jhe0956@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.1.1"
+  }
+}
